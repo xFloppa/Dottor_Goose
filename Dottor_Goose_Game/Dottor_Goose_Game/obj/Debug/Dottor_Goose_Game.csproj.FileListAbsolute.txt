@@ -1,0 +1,10 @@
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\bin\Debug\Dottor_Goose_Game.exe.config
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\bin\Debug\Dottor_Goose_Game.exe
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\bin\Debug\Dottor_Goose_Game.pdb
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\obj\Debug\Dottor_Goose_Game.csproj.AssemblyReference.cache
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\obj\Debug\Dottor_Goose_Game.Form1.resources
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\obj\Debug\Dottor_Goose_Game.Properties.Resources.resources
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\obj\Debug\Dottor_Goose_Game.csproj.GenerateResource.cache
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\obj\Debug\Dottor_Goose_Game.csproj.CoreCompileInputs.cache
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\obj\Debug\Dottor_Goose_Game.exe
+C:\Users\john2\flopp\Oca_Game\Dottor_Goose_Game\Dottor_Goose_Game\obj\Debug\Dottor_Goose_Game.pdb
